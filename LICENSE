@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 SafeSpace Salone - Walon Foundation
+Copyright (c) 2025 Tele-Health - Walon Foundation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,41 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-## Additional Terms for Mental Health Applications
-
-This software is designed to provide mental health support and crisis intervention.
-Users of this software acknowledge that:
-
-1. This software is not a substitute for professional medical advice, diagnosis,
-   or treatment.
-
-2. In case of emergency or suicidal thoughts, users should immediately contact
-   local emergency services or crisis hotlines.
-
-3. The developers and contributors of this software are not liable for any
-   outcomes resulting from the use of this application.
-
-4. User privacy and data protection are paramount. Any deployment of this
-   software must comply with applicable data protection laws (GDPR, HIPAA, etc.).
-
-5. This software should be deployed with appropriate security measures and
-   regular security audits.
-
-## Crisis Resources
-
-If you or someone you know is in crisis, please contact:
-
-**Sierra Leone:**
-- Mental Health Hotline: 079-XXX-XXX
-- Police Emergency: 019
-- Kissy Psychiatric Hospital: 076-XXX-XXX
-
-**International:**
-- International Suicide Hotline: +1-800-273-8255
-- Crisis Text Line: Text HOME to 741741
-
----
-
-For questions about this license, please contact: team@safespacesalone.org

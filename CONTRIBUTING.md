@@ -118,11 +118,11 @@ Unsure where to begin? Look for issues labeled:
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/safespace-salone.git
-cd safespace-salone
+git clone https://github.com/YOUR_USERNAME/tele-health.git
+cd tele-health
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/walon-foundation/safespace-salone.git
+git remote add upstream https://github.com/Walon-Foundation/tele-health.git
 
 # 4. Install dependencies
 pnpm install
