@@ -17,7 +17,8 @@
 
 ## 🌍 **About**
 
-SafeSpace Salone is a **production-ready Progressive Web App** providing free, anonymous mental health counseling to young people in Sierra Leone. Built with accessibility and privacy at its core, it works on 3G connections and requires no personal information.
+SafeSpace Salone is a **Progressive Web App prototype** providing free, anonymous mental health counseling to young people in Sierra Leone. Built with accessibility and privacy at its core, it works on 3G connections and requires no personal information.
+
 
 ### **The Problem**
 
